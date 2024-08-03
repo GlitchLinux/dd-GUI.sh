@@ -10,6 +10,8 @@ This script gives the user a quick and simple GUI for performing `dd` tasks usin
 - **Progress Display**: Shows progress of the `dd` operation in the terminal.
 - **Completion Notification**: Notifies the user upon completion or cancellation of the operation.
 
+By providing a user-friendly interface for `dd` operations, this script aims to simplify the process of copying data between files and disks.
+
 ## Requirements
 
 - Bash
@@ -109,8 +111,8 @@ Feel free to submit issues or pull requests if you find any bugs or have suggest
 
 ## Author
 
-- **Your Name** - [yourusername](https://github.com/yourusername)
+- **gLiTcH LINUX** - [[yourusername](https://github.com/yourusername)](https://github.com/GlitchLinux)
 
 ---
 
-By providing a user-friendly interface for `dd` operations, this script aims to simplify the process of copying data between files and disks. Happy cloning!
+Happy cloning!
