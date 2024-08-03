@@ -2,6 +2,8 @@
 
 This script gives the user a quick and simple GUI for performing `dd` tasks using Zenity. It allows users to copy data from a file to a disk or from one disk to another with a series of dialogs for file and disk selection, followed by a confirmation prompt before executing the `dd` command.
 
+![Screenshot_2024-08-04_00-11-54](https://github.com/user-attachments/assets/ebcfab24-43cf-4641-941c-105d335730e3) ![Screenshot_2024-08-04_00-13-07](https://github.com/user-attachments/assets/c1b8e05c-d261-4d59-bb56-6d823d056ecf)
+ 
 ## Features
 
 - **File to Disk**: Select a file to write to a disk.
