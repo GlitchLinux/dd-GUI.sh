@@ -111,7 +111,7 @@ Feel free to submit issues or pull requests if you find any bugs or have suggest
 
 ## Author
 
-- **gLiTcH LINUX** - [[yourusername](https://github.com/yourusername)](https://github.com/GlitchLinux)
+- **gLiTcH LINUX** (https://github.com/GlitchLinux)
 
 ---
 
