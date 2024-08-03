@@ -10,7 +10,7 @@ This script gives the user a quick and simple GUI for performing `dd` tasks usin
 - **Progress Display**: Shows progress of the `dd` operation in the terminal.
 - **Completion Notification**: Notifies the user upon completion or cancellation of the operation.
 
-Script enables a user-friendly interface for `dd`  operations, this script aims to simplify the process of copying data between files and disks.
+Script enables a user-friendly interface for `dd`  operations, Script aims to simplify the process of copying data between files and disks.
 
 ## Requirements
 
