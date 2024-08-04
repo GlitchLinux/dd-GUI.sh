@@ -1,4 +1,4 @@
-# DD GUI Utility Script
+# DD GUI Utility
 
 This script gives the user a quick and simple GUI for performing `dd` tasks using Zenity. It allows users to copy data from a file to a disk or from one disk to another with a series of dialogs for file and disk selection, followed by a confirmation prompt before executing the `dd` command.
 
