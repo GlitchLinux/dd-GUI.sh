@@ -24,24 +24,25 @@ Script enables a user-friendly interface for `dd`  operations, Script aims to si
 
 ## Usage
 
-1. **Clone the repository or download the script**:
+1.  Download the script**:
 
     ```sh
-    git clone https://github.com/yourusername/dd-utility-script.git
-    cd dd-utility-script
+    git clone https://github.com/GlitchLinux/dd-GUI.sh
+    
     ```
 
 2. **Make the script executable**:
 
     ```sh
-    chmod +x dd-utility.sh
+    chmod +x dd-GUI.sh
+   
     ```
 
 3. **Run the script**:
 
     ```sh
-    ./dd-utility.sh
-    ```
+    ./dd-GUI.sh
+    
 
 ## Script Details
 
